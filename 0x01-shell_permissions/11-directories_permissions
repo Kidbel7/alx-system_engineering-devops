@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd +x */
+chomd -R Ugo+X *
